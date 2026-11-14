@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Prix FRED/EIA : redistribution non autorisee, telecharges par script
+data/raw/henry_hub_spot_daily.csv
