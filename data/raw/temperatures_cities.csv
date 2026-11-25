@@ -1,4 +1,4 @@
-date,ville,temperature_c
+date,city,temp_c
 2008-01-01,new_york,3.3
 2008-01-02,new_york,-2.2
 2008-01-03,new_york,-8.2
